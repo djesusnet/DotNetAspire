@@ -1,0 +1,12 @@
+C:\Projetos\Repositorios\ExampleDotnetAspire\WeatherApp.Aspire\WeatherApp.Aspire.ServiceDefaults\bin\Debug\net8.0\WeatherApp.Aspire.ServiceDefaults.deps.json
+C:\Projetos\Repositorios\ExampleDotnetAspire\WeatherApp.Aspire\WeatherApp.Aspire.ServiceDefaults\bin\Debug\net8.0\WeatherApp.Aspire.ServiceDefaults.dll
+C:\Projetos\Repositorios\ExampleDotnetAspire\WeatherApp.Aspire\WeatherApp.Aspire.ServiceDefaults\bin\Debug\net8.0\WeatherApp.Aspire.ServiceDefaults.pdb
+C:\Projetos\Repositorios\ExampleDotnetAspire\WeatherApp.Aspire\WeatherApp.Aspire.ServiceDefaults\obj\Debug\net8.0\WeatherApp.Aspire.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Projetos\Repositorios\ExampleDotnetAspire\WeatherApp.Aspire\WeatherApp.Aspire.ServiceDefaults\obj\Debug\net8.0\WeatherApp.Aspire.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Repositorios\ExampleDotnetAspire\WeatherApp.Aspire\WeatherApp.Aspire.ServiceDefaults\obj\Debug\net8.0\WeatherApp.Aspire.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Projetos\Repositorios\ExampleDotnetAspire\WeatherApp.Aspire\WeatherApp.Aspire.ServiceDefaults\obj\Debug\net8.0\WeatherApp.Aspire.ServiceDefaults.AssemblyInfo.cs
+C:\Projetos\Repositorios\ExampleDotnetAspire\WeatherApp.Aspire\WeatherApp.Aspire.ServiceDefaults\obj\Debug\net8.0\WeatherApp.Aspire.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Projetos\Repositorios\ExampleDotnetAspire\WeatherApp.Aspire\WeatherApp.Aspire.ServiceDefaults\obj\Debug\net8.0\WeatherApp.Aspire.ServiceDefaults.dll
+C:\Projetos\Repositorios\ExampleDotnetAspire\WeatherApp.Aspire\WeatherApp.Aspire.ServiceDefaults\obj\Debug\net8.0\refint\WeatherApp.Aspire.ServiceDefaults.dll
+C:\Projetos\Repositorios\ExampleDotnetAspire\WeatherApp.Aspire\WeatherApp.Aspire.ServiceDefaults\obj\Debug\net8.0\WeatherApp.Aspire.ServiceDefaults.pdb
+C:\Projetos\Repositorios\ExampleDotnetAspire\WeatherApp.Aspire\WeatherApp.Aspire.ServiceDefaults\obj\Debug\net8.0\ref\WeatherApp.Aspire.ServiceDefaults.dll
